@@ -2,6 +2,8 @@
 
 This repository contains the code used to perform experiments for our [heterogeneity-aware federated learning system.](https://ieeexplore.ieee.org/document/9820684) If you find this code useful, feel free to cite our releated research.
 
+The APIs used in the code might be deprecated/changed depending on the version of ML libraries you use.
+
 ```
 @INPROCEEDINGS{9820684,
   author={Wolfrath, Joel and Sreekumar, Nikhil and Kumar, Dhruv and Wang, Yuanli and Chandra, Abhishek},
